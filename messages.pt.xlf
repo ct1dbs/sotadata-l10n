@@ -4,6 +4,7 @@
     <body>
       <trans-unit id="MainTitle" datatype="html">
         <source>SOTA Results and Summits Database</source>
+	<target>Base de dados de cumes e resultados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/app.component.html</context>
           <context context-type="linenumber">9</context>
@@ -18,6 +19,7 @@
       </trans-unit>
       <trans-unit id="Home" datatype="html">
         <source>Home</source>
+	<target>Início</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">9</context>
@@ -36,6 +38,7 @@
       </trans-unit>
       <trans-unit id="ViewResults" datatype="html">
         <source>View Results</source>
+	<target>Resultados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">17</context>
@@ -43,6 +46,7 @@
       </trans-unit>
       <trans-unit id="Summits" datatype="html">
         <source>Summits</source>
+	<target>Referências</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">21</context>
@@ -50,6 +54,7 @@
       </trans-unit>
       <trans-unit id="SubmitLogs" datatype="html">
         <source>Submit Logs</source>
+	<target>Submissão de logs</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">25</context>
@@ -57,6 +62,7 @@
       </trans-unit>
       <trans-unit id="FactsAndFigures" datatype="html">
         <source>Facts and Figures</source>
+	<target>Factos e números</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">32</context>
@@ -64,6 +70,7 @@
       </trans-unit>
       <trans-unit id="ActivatorRollOfHonour" datatype="html">
         <source>Activator Roll of Honour</source>
+	<target>Listagem dos Activadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">36</context>
@@ -71,6 +78,7 @@
       </trans-unit>
       <trans-unit id="ActivatorUniques" datatype="html">
         <source>Activator Uniques</source>
+	<target>Referências únicas dos Activadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">40</context>
@@ -78,6 +86,7 @@
       </trans-unit>
       <trans-unit id="ChaserRollOfHonour" datatype="html">
         <source>Chaser Roll of Honour</source>
+	<target>Listagem dos Caçadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">44</context>
@@ -85,6 +94,7 @@
       </trans-unit>
       <trans-unit id="ChaserUniques" datatype="html">
         <source>Chaser Uniques</source>
+	<target>Referências únicas dos Caçadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">48</context>
@@ -92,6 +102,7 @@
       </trans-unit>
       <trans-unit id="S2SRollOfHonour" datatype="html">
         <source>Summit to Summit Roll of Honour</source>
+	<target>Listagem S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">52</context>
@@ -99,6 +110,7 @@
       </trans-unit>
       <trans-unit id="SOTACompleteRoll" datatype="html">
         <source>SOTA Complete Roll of Honour</source>
+	<target>Listagem de completos</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">56</context>
@@ -106,6 +118,7 @@
       </trans-unit>
       <trans-unit id="SWLRoll" datatype="html">
         <source>SWL Roll of Honour</source>
+	<target>Listagem de rádio-escutas</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">60</context>
@@ -113,6 +126,7 @@
       </trans-unit>
       <trans-unit id="Challenges" datatype="html">
         <source>Challenges</source>
+	<target>Desafios</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">64</context>
@@ -120,6 +134,7 @@
       </trans-unit>
       <trans-unit id="MyResults" datatype="html">
         <source>My Results</source>
+	<target>Meus resultados</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">68</context>
@@ -127,6 +142,7 @@
       </trans-unit>
       <trans-unit id="1st12mActivator" datatype="html">
         <source>1st 12m Challenge Activator Roll of Honour</source>
+	<target>Primeiro desafio 12m - Listagem dos Activadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">74</context>
@@ -134,6 +150,7 @@
       </trans-unit>
       <trans-unit id="1st12mChaser" datatype="html">
         <source>1st 12m Challenge Chaser Roll of Honour</source>
+	<target>Primeiro desafio 12m - Listagem dos Caçadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">77</context>
@@ -141,6 +158,7 @@
       </trans-unit>
       <trans-unit id="1st610Activator" datatype="html">
         <source>1st 6m/10m Challenge Activator Roll of Honour</source>
+	<target>Primeiro desafio 6m/10m - Listagem dos Activadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">80</context>
@@ -148,6 +166,7 @@
       </trans-unit>
       <trans-unit id="1st610Chaser" datatype="html">
         <source>1st 6m/10m Challenge Chaser Roll of Honour</source>
+	<target>Primeiro desafio 6m/10m - Listagem dos Caçadores</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">83</context>
@@ -155,6 +174,7 @@
       </trans-unit>
       <trans-unit id="SubmitActivator" datatype="html">
         <source>Submit Activator Entry</source>
+	<target>Submeter registo de Activador</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">169</context>
@@ -162,6 +182,7 @@
       </trans-unit>
       <trans-unit id="SubmitChaserS2S" datatype="html">
         <source>Submit Chaser/S2S Entry</source>
+	<target>Submeter registo de Caçador ou S2S</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">173</context>
@@ -169,6 +190,7 @@
       </trans-unit>
       <trans-unit id="UploadCSV" datatype="html">
         <source>Upload CSV/TSV log file</source>
+	<target>Submeter ficheiro de log CSV/TSV</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/menu/menu.component.html</context>
           <context context-type="linenumber">177</context>
@@ -182,6 +204,7 @@
         <source>
 Welcome to the Worldwide Summits On The Air database service.
 </source>
+	<target>Seja bem-vindo à base de dados SOTA (mundial)</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">2</context>
@@ -191,6 +214,7 @@ Welcome to the Worldwide Summits On The Air database service.
         <source>
 Summits on the Air is a programme that encourages radio amateurs who enjoy hill walking and the great outdoors to take their radios with them and operate from the mountain tops.
 </source>
+	<target>O programa SOTA (summits on the Air) é um programa que incentiva os radioamadores que gostam de caminhadas em montanha a levarem os seus rádios e a operarem-nos a partir dos cumes referenciados.</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">5</context>
@@ -200,6 +224,9 @@ Summits on the Air is a programme that encourages radio amateurs who enjoy hill 
         <source>
 An award scheme recognises those who activate the summits and also those that make QSOs with the activators. The programme can be operated anywhere in the world.
 </source>
+	<target>
+O SOTA é um esquema de troféus/diplomas que reconhece os que activaram os cumes referenciados e aqueles que fazem QSO com os Activadores. O Programa pode estar activo em qualquer parte do mundo.		
+</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">8</context>
@@ -209,6 +236,9 @@ An award scheme recognises those who activate the summits and also those that ma
         <source>
 For more information about the SOTA program in your area, please see the main website, <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
 </source>
+	<target>
+Para mais informação sobre o Programa SOTA na sua área, consulte o sítio principal em Português <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>https://ctsota.wordpress.com/<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> ou o sítio principal em Inglês <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>http://www.sota.org.uk<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/>
+ 	</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/title-page/title-page.component.html</context>
           <context context-type="linenumber">11</context>
@@ -216,6 +246,10 @@ For more information about the SOTA program in your area, please see the main we
       </trans-unit>
       <trans-unit id="SOTACompetition" datatype="html">
         <source>SOTA is not inherently a competitive activity, it&apos;s about individual aspirations and working towards a goal at your own pace. However, it can be fun to see how your progress compares with that of others, hence we publish our Honour Roll on the internet.</source>
+	<target>
+	O SOTA não é uma competição, sendo uma actividade baseada na aspirações individuais tendo em vista um objectivo, no seu próprio passo. De qualquer forma, pode ser interessante verificar o seu progresso comparando-o com outros. Daí a a publicação das listagens na internet
+	</target>		
+	
         <context-group purpose="location">
           <context context-type="sourcefile">app/chaser-roll/chaser-roll.component.html</context>
           <context context-type="linenumber">3</context>
@@ -266,6 +300,9 @@ For more information about the SOTA program in your area, please see the main we
 You can use this page to perform a bulk upload of many Activator Entries at 
 once. This page is intended for more experienced users only.
 </source>
+	<target>
+	Pode usar esta página para fazer o registo de várias entradas de Activador numa única vez. Esta página destina-se aos utilizadores mais experientes.
+	</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">5</context>
@@ -274,7 +311,9 @@ once. This page is intended for more experienced users only.
       <trans-unit id="csvUp2" datatype="html">
         <source>If you have a large number of log entries you want to claim, this may be the fastest way of recording them
 </source>
-        <context-group purpose="location">
+	<target>Se tem um grande número de contactos no log que pretende registas, esta deverá ser a forma mais rápida de o fazer.
+	</target>
+	<context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
@@ -284,6 +323,8 @@ once. This page is intended for more experienced users only.
 If however you only have a dozen or less entries, it will probably be easier 
 to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Add Activation<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> web page.
 </source>
+	<target>
+	Contudo, se tem apenas uma dúzia ou menos de registos, será mais fácil utilizar a página <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Adicionar activação<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> </target> 
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">13</context>
@@ -291,6 +332,7 @@ to use the normal <x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>Add Act
       </trans-unit>
       <trans-unit id="Instructions" datatype="html">
         <source>Instructions</source>
+	<target>Instruções</target>
         <context-group purpose="location">
           <context context-type="sourcefile">app/activator-csv/activator-csv.component.html</context>
           <context context-type="linenumber">18</context>
